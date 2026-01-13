@@ -37,8 +37,4 @@ A Lolli usa sua base de dados como exemplo, Isso torna o aprendizado concreto e 
 
 ---
 
-## Link do Vídeo
-
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
-
-[Link do vídeo]
+(https://github.com/ogabridev/dio-lab-bia-do-futuro/tree/main)
